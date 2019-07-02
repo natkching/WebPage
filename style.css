@@ -1,0 +1,38 @@
+#myBackground {
+  background-color:OldLace;
+}
+#myHeading {
+  color:Salmon;
+  font-family:Impact;
+}
+#myIntro {
+  color:SkyBlue;
+  font-family:Courier;
+}
+#mySummer {
+  color:SkyBlue;
+  font-family:Courier;
+}
+.topnav a {
+  color: LightBlue;
+  background-color: #F78181;
+  font-family: Impact;
+  overflow: hidden;
+  padding: 14px 16px
+}
+.topnav a:hover {
+  background-color: #F78181;
+  color: white;
+}
+.fa-linkedin{
+  background: #007bb5;
+  color: white;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
